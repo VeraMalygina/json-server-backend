@@ -1,0 +1,29 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "Fitness",
+      "title": "Menu 'Fitness'",
+      "descr": "Le menu 'Fitness' est une nouvelle approche de la cuisine : plus de légumes et de fruits frais. Un produit pour les personnes actives et en bonne santé. C'est un produit totalement nouveau avec un prix optimal et une qualité élevée !",
+      "price": 9,
+      "id": "dd8f"
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "Végétalien",
+      "title": "Menu 'Végétalien'",
+      "descr": "Le menu 'Végétalien' repose sur une sélection rigoureuse d'ingrédients : aucune trace de produits d'origine animale, des laits d'amande, d’avoine, de coco ou de sarrasin, et un apport en protéines assuré par le tofu et des steaks végétariens importés.",
+      "price": 14,
+      "id": "e61b"
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "Premium",
+      "title": "Menu 'Premium'",
+      "descr": "Dans le menu 'Premium', nous utilisons non seulement un design d'emballage élégant, mais aussi une exécution culinaire de qualité. Poisson rouge, fruits de mer, fruits frais — un menu de restaurant sans aller au restaurant !",
+      "price": 21,
+      "id": "a1d1"
+    }
+  ],
+  "requests": []
+}
